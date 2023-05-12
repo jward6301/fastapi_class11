@@ -1,8 +1,8 @@
 from fastapi import FastAPI
-import pandas as pd
+import panda as pd
 import uvicorn
 
-df = pd.read_csv('./data/smallutilization2019.csv')
+df = pd.read_xlsx('./data/services2019.xlsx')
 
 app = FastAPI()
 
