@@ -1,6 +1,5 @@
 from fastapi import FastAPI
 import panda as pd
-import uvicorn
 
 df = pd.read_xlsx('./data/services2019.xlsx')
 
