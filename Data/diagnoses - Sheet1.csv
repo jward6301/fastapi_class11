@@ -1,0 +1,400 @@
+row_id,service_year,county_code,county_name,payer,age_group_code,age_group_name,sex,unique_member_cnt,principal_diagnosis_code,diagnosis_description
+6286144,2019,1,Aitkin,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,11,R73,Elevated blood glucose level
+6290440,2019,1,Aitkin,MEDICARE,4,65 - 74 years,F,19,R32,Unspecified urinary incontinence
+6292576,2019,1,Aitkin,MEDICARE,5,75 years and older,M,341,Z01,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx"
+6294256,2019,3,Anoka,COMMERCIAL,1,18 years and under,M,88,Z20,Contact w and (suspected) exposure to communicable diseases
+6295936,2019,3,Anoka,COMMERCIAL,2,19 - 44 years,M,49,M23,Internal derangement of knee
+6296968,2019,3,Anoka,COMMERCIAL,3,45 - 64 years,F,17,M40,Kyphosis and lordosis
+6298072,2019,3,Anoka,COMMERCIAL,3,45 - 64 years,M,39,N48,Other disorders of penis
+6300112,2019,3,Anoka,COMMERCIAL,5,75 years and older,F,26,R68,Other general symptoms and signs
+6301984,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,154,G47,Sleep disorders
+6303136,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,43,I51,Complications and ill-defined descriptions of heart disease
+6304240,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,347,I10,Essential (primary) hypertension
+6305152,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,13,F30,Manic episode
+6305968,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,235,Z74,Problems related to care provider dependency
+6307168,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,4,65 - 74 years,F,12,I67,Other cerebrovascular diseases
+6310960,2019,3,Anoka,MEDICARE,3,45 - 64 years,F,108,J98,Other respiratory disorders
+6312616,2019,3,Anoka,MEDICARE,4,65 - 74 years,F,13,D46,Myelodysplastic syndromes
+6313480,2019,3,Anoka,MEDICARE,4,65 - 74 years,F,"4,113",Z23,Encounter for immunization
+6314488,2019,3,Anoka,MEDICARE,4,65 - 74 years,M,11,T87,Complications peculiar to reattachment and amputation
+6315256,2019,3,Anoka,MEDICARE,5,75 years and older,F,46,N19,Unspecified kidney failure
+6316144,2019,3,Anoka,MEDICARE,5,75 years and older,M,11,K70,Alcoholic liver disease
+6318952,2019,5,Becker,COMMERCIAL,3,45 - 64 years,F,37,Z13,Encounter for screening for other diseases and disorders
+6322048,2019,5,Becker,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,13,L50,Urticaria
+6324352,2019,5,Becker,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,13,R79,Other abnormal findings of blood chemistry
+6328048,2019,5,Becker,MEDICARE,4,65 - 74 years,F,19,M35,Other systemic involvement of connective tissue
+6329608,2019,5,Becker,MEDICARE,5,75 years and older,F,15,M72,Fibroblastic disorders
+6332656,2019,7,Beltrami,COMMERCIAL,3,45 - 64 years,F,11,L98,"Oth disorders of skin, subcu, not elsewhere classified"
+6334960,2019,7,Beltrami,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,22,J31,"Chronic rhinitis, nasopharyngitis and pharyngitis"
+6336712,2019,7,Beltrami,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,12,L23,Allergic contact dermatitis
+6338320,2019,7,Beltrami,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,160,M54,Dorsalgia
+6341920,2019,7,Beltrami,MEDICARE,3,45 - 64 years,M,22,G40,Epilepsy and recurrent seizures
+6343912,2019,7,Beltrami,MEDICARE,4,65 - 74 years,M,18,S22,"Fracture of rib(s), sternum and thoracic spine"
+6345280,2019,7,Beltrami,MEDICARE,5,75 years and older,M,16,L40,Psoriasis
+6348112,2019,9,Benton,COMMERCIAL,3,45 - 64 years,F,295,I10,Essential (primary) hypertension
+6351352,2019,9,Benton,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,11,F50,Eating disorders
+6355936,2019,9,Benton,MEDICARE,3,45 - 64 years,M,11,Z86,Personal history of certain other diseases
+6358192,2019,9,Benton,MEDICARE,5,75 years and older,M,84,I50,Heart failure
+6364048,2019,11,Big Stone,MEDICARE,5,75 years and older,M,21,I08,Multiple valve diseases
+6367336,2019,13,Blue Earth,COMMERCIAL,3,45 - 64 years,M,12,R39,Oth and unsp symptoms and signs involving the GU sys
+6370240,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,824,Z30,Encounter for contraceptive management
+6373216,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,4,65 - 74 years,M,17,Z79,Long term (current) drug therapy
+6375808,2019,13,Blue Earth,MEDICARE,3,45 - 64 years,M,26,K76,Other diseases of liver
+6377320,2019,13,Blue Earth,MEDICARE,4,65 - 74 years,M,16,I95,Hypotension
+6378496,2019,13,Blue Earth,MEDICARE,5,75 years and older,F,12,S46,"Injury of muscle, fascia and tendon at shldr/up arm"
+6380944,2019,15,Brown,COMMERCIAL,3,45 - 64 years,F,16,H35,Other retinal disorders
+6384664,2019,15,Brown,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,85,Z02,Encounter for administrative examination
+6388072,2019,15,Brown,MEDICARE,4,65 - 74 years,F,23,Z86,Personal history of certain other diseases
+6389680,2019,15,Brown,MEDICARE,5,75 years and older,M,39,G89,"Pain, not elsewhere classified"
+6393520,2019,17,Carlton,COMMERCIAL,4,65 - 74 years,F,11,R73,Elevated blood glucose level
+6395728,2019,17,Carlton,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,85,O26,Maternal care for oth conditions predom related to pregnancy
+6397384,2019,17,Carlton,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,14,D50,Iron deficiency anemia
+6401008,2019,17,Carlton,MEDICARE,4,65 - 74 years,F,15,G93,Other disorders of brain
+6402592,2019,17,Carlton,MEDICARE,5,75 years and older,F,15,I83,Varicose veins of lower extremities
+6404488,2019,19,Carver,COMMERCIAL,1,18 years and under,M,18,B09,Unsp viral infection with skin and mucous membrane lesions
+6405904,2019,19,Carver,COMMERCIAL,2,19 - 44 years,F,414,Z34,Encounter for supervision of normal pregnancy
+6407416,2019,19,Carver,COMMERCIAL,3,45 - 64 years,F,36,S61,"Open wound of wrist, hand and fingers"
+6410152,2019,19,Carver,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,34,B07,Viral warts
+6412384,2019,19,Carver,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,56,F32,"Major depressive disorder, single episode"
+6415888,2019,19,Carver,MEDICARE,3,45 - 64 years,F,12,M53,"Other and unspecified dorsopathies, not elsewhere classified"
+6417832,2019,19,Carver,MEDICARE,4,65 - 74 years,M,21,E66,Overweight and obesity
+6419128,2019,19,Carver,MEDICARE,5,75 years and older,F,53,R20,Disturbances of skin sensation
+6421336,2019,21,Cass,COMMERCIAL,2,19 - 44 years,M,18,R07,Pain in throat and chest
+6424936,2019,21,Cass,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,34,K80,Cholelithiasis
+6427552,2019,21,Cass,MINNESOTA HEALTH CARE PROGRAMS,4,65 - 74 years,F,14,M54,Dorsalgia
+6431032,2019,21,Cass,MEDICARE,4,65 - 74 years,M,172,E78,Disorders of lipoprotein metabolism and other lipidemias
+6432472,2019,21,Cass,MEDICARE,5,75 years and older,M,58,D64,Other anemias
+6436984,2019,23,Chippewa,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,14,J02,Acute pharyngitis
+6441232,2019,23,Chippewa,MEDICARE,5,75 years and older,M,169,Z23,Encounter for immunization
+6443632,2019,25,Chisago,COMMERCIAL,2,19 - 44 years,M,36,N50,Other and unspecified disorders of male genital organs
+6445312,2019,25,Chisago,COMMERCIAL,3,45 - 64 years,M,14,S30,"Superfic inj abdomen, low back, pelvis and external genitals"
+6448624,2019,25,Chisago,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,70,N30,Cystitis
+6450640,2019,25,Chisago,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,20,I51,Complications and ill-defined descriptions of heart disease
+6454240,2019,25,Chisago,MEDICARE,4,65 - 74 years,F,19,E05,Thyrotoxicosis [hyperthyroidism]
+6456040,2019,25,Chisago,MEDICARE,5,75 years and older,F,315,I48,Atrial fibrillation and flutter
+6458368,2019,27,Clay,COMMERCIAL,2,19 - 44 years,F,21,G89,"Pain, not elsewhere classified"
+6460600,2019,27,Clay,COMMERCIAL,3,45 - 64 years,M,18,M77,Other enthesopathies
+6463528,2019,27,Clay,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,30,H65,Nonsuppurative otitis media
+6465448,2019,27,Clay,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,36,M48,Other spondylopathies
+6469192,2019,27,Clay,MEDICARE,3,45 - 64 years,F,27,Z78,Other specified health status
+6470848,2019,27,Clay,MEDICARE,4,65 - 74 years,M,13,F10,Alcohol related disorders
+6472144,2019,27,Clay,MEDICARE,5,75 years and older,F,238,R91,Abnormal findings on diagnostic imaging of lung
+6475720,2019,29,Clearwater,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,44,M79,"Oth and unsp soft tissue disorders, not elsewhere classified"
+6480520,2019,29,Clearwater,MEDICARE,5,75 years and older,F,67,M99,"Biomechanical lesions, not elsewhere classified"
+6485704,2019,31,Cook,MEDICARE,5,75 years and older,F,19,N39,Other disorders of urinary system
+6283047,2019,1,Aitkin,COMMERCIAL,2,19 - 44 years,F,11,R00,Abnormalities of heart beat
+6287583,2019,1,Aitkin,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,32,M19,Other and unspecified osteoarthritis
+6291591,2019,1,Aitkin,MEDICARE,5,75 years and older,F,28,K52,Other and unsp noninfective gastroenteritis and colitis
+6293127,2019,3,Anoka,COMMERCIAL,1,18 years and under,F,134,N94,Pain and oth cond assoc w fem gntl org and menstrual cycle
+6294327,2019,3,Anoka,COMMERCIAL,2,19 - 44 years,F,134,B07,Viral warts
+6295575,2019,3,Anoka,COMMERCIAL,2,19 - 44 years,M,32,F15,Other stimulant related disorders
+6296751,2019,3,Anoka,COMMERCIAL,3,45 - 64 years,F,83,I82,Other venous embolism and thrombosis
+6297735,2019,3,Anoka,COMMERCIAL,3,45 - 64 years,M,13,H72,Perforation of tympanic membrane
+6299151,2019,3,Anoka,COMMERCIAL,4,65 - 74 years,M,217,E78,Disorders of lipoprotein metabolism and other lipidemias
+6301263,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,248,M54,Dorsalgia
+6302607,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,34,T16,Foreign body in ear
+6303591,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,344,R00,Abnormalities of heart beat
+6304887,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,113,Z87,Personal history of other diseases and conditions
+6305991,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,22,A04,Other bacterial intestinal infections
+6307647,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,4,65 - 74 years,M,12,G93,Other disorders of brain
+6310599,2019,3,Anoka,MEDICARE,3,45 - 64 years,F,15,D18,"Hemangioma and lymphangioma, any site"
+6311919,2019,3,Anoka,MEDICARE,3,45 - 64 years,M,51,J20,Acute bronchitis
+6313023,2019,3,Anoka,MEDICARE,4,65 - 74 years,F,26,K82,Other diseases of gallbladder
+6314103,2019,3,Anoka,MEDICARE,4,65 - 74 years,M,30,L28,Lichen simplex chronicus and prurigo
+6492832,2019,33,Cottonwood,MEDICARE,4,65 - 74 years,M,19,M19,Other and unspecified osteoarthritis
+6495544,2019,35,Crow Wing,COMMERCIAL,2,19 - 44 years,F,12,N85,"Other noninflammatory disorders of uterus, except cervix"
+6499096,2019,35,Crow Wing,COMMERCIAL,5,75 years and older,M,21,M25,"Other joint disorder, not elsewhere classified"
+6501208,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,29,O43,Placental disorders
+6503824,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,13,Z89,Acquired absence of limb
+6507640,2019,35,Crow Wing,MEDICARE,4,65 - 74 years,F,140,F33,"Major depressive disorder, recurrent"
+6508960,2019,35,Crow Wing,MEDICARE,4,65 - 74 years,M,17,R16,"Hepatomegaly and splenomegaly, not elsewhere classified"
+6510400,2019,35,Crow Wing,MEDICARE,5,75 years and older,M,155,I65,"Occls and stenosis of precerb art, not rslt in cereb infrc"
+6511696,2019,37,Dakota,COMMERCIAL,1,18 years and under,F,15,S43,Disloc and sprain of joints and ligaments of shoulder girdle
+6512896,2019,37,Dakota,COMMERCIAL,2,19 - 44 years,F,38,D35,Benign neoplasm of other and unspecified endocrine glands
+6513760,2019,37,Dakota,COMMERCIAL,2,19 - 44 years,F,39,S91,"Open wound of ankle, foot and toes"
+6514984,2019,37,Dakota,COMMERCIAL,3,45 - 64 years,F,15,C67,Malignant neoplasm of bladder
+6515968,2019,37,Dakota,COMMERCIAL,3,45 - 64 years,F,38,Z72,Problems related to lifestyle
+6517144,2019,37,Dakota,COMMERCIAL,4,65 - 74 years,F,113,E03,Other hypothyroidism
+6518728,2019,37,Dakota,COMMERCIAL,5,75 years and older,F,15,I42,Cardiomyopathy
+6520432,2019,37,Dakota,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,25,P96,Other conditions originating in the perinatal period
+6521512,2019,37,Dakota,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,42,R25,Abnormal involuntary movements
+6522448,2019,37,Dakota,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,32,N31,"Neuromuscular dysfunction of bladder, NEC"
+6523792,2019,37,Dakota,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,45,S63,Dislocation and sprain of joints and ligaments at wrs/hnd lv
+6525184,2019,37,Dakota,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,12,E05,Thyrotoxicosis [hyperthyroidism]
+6527032,2019,37,Dakota,MINNESOTA HEALTH CARE PROGRAMS,4,65 - 74 years,M,45,R06,Abnormalities of breathing
+6530080,2019,37,Dakota,MEDICARE,3,45 - 64 years,F,81,H43,Disorders of vitreous body
+6531232,2019,37,Dakota,MEDICARE,3,45 - 64 years,M,30,K40,Inguinal hernia
+6532240,2019,37,Dakota,MEDICARE,4,65 - 74 years,F,33,K25,Gastric ulcer
+6533344,2019,37,Dakota,MEDICARE,4,65 - 74 years,M,13,K35,Acute appendicitis
+6534424,2019,37,Dakota,MEDICARE,5,75 years and older,F,92,K58,Irritable bowel syndrome
+6535456,2019,37,Dakota,MEDICARE,5,75 years and older,M,137,K22,Other diseases of esophagus
+6538576,2019,39,Dodge,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,31,S01,Open wound of head
+6542536,2019,39,Dodge,MEDICARE,4,65 - 74 years,F,25,R91,Abnormal findings on diagnostic imaging of lung
+6545416,2019,41,Douglas,COMMERCIAL,2,19 - 44 years,F,19,D25,Leiomyoma of uterus
+6547624,2019,41,Douglas,COMMERCIAL,3,45 - 64 years,M,11,K62,Other diseases of anus and rectum
+6551128,2019,41,Douglas,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,105,E11,Type 2 diabetes mellitus
+6554656,2019,41,Douglas,MEDICARE,3,45 - 64 years,M,24,F25,Schizoaffective disorders
+6556456,2019,41,Douglas,MEDICARE,4,65 - 74 years,M,22,N32,Other disorders of bladder
+6557800,2019,41,Douglas,MEDICARE,5,75 years and older,M,17,J02,Acute pharyngitis
+6563008,2019,43,Faribault,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,22,Z48,Encounter for other postprocedural aftercare
+6566656,2019,43,Faribault,MEDICARE,5,75 years and older,F,35,R35,Polyuria
+6571408,2019,45,Fillmore,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,22,J44,Other chronic obstructive pulmonary disease
+6575344,2019,45,Fillmore,MEDICARE,4,65 - 74 years,M,24,R19,Oth symptoms and signs involving the dgstv sys and abdomen
+6577768,2019,47,Freeborn,COMMERCIAL,2,19 - 44 years,F,98,Z01,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx"
+6581968,2019,47,Freeborn,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,11,H35,Other retinal disorders
+6585832,2019,47,Freeborn,MEDICARE,4,65 - 74 years,F,28,E83,Disorders of mineral metabolism
+6587464,2019,47,Freeborn,MEDICARE,5,75 years and older,F,52,J98,Other respiratory disorders
+6589336,2019,49,Goodhue,COMMERCIAL,2,19 - 44 years,F,20,B37,Candidiasis
+6593488,2019,49,Goodhue,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,21,G56,Mononeuropathies of upper limb
+6597064,2019,49,Goodhue,MEDICARE,2,19 - 44 years,F,12,R05,Cough
+6599704,2019,49,Goodhue,MEDICARE,4,65 - 74 years,M,454,E11,Type 2 diabetes mellitus
+6601000,2019,49,Goodhue,MEDICARE,5,75 years and older,F,26,R69,"Illness, unspecified"
+6607432,2019,51,Grant,MEDICARE,4,65 - 74 years,M,18,I49,Other cardiac arrhythmias
+6609712,2019,53,Hennepin,COMMERCIAL,1,18 years and under,F,46,Z93,Artificial opening status
+6610720,2019,53,Hennepin,COMMERCIAL,1,18 years and under,M,17,Z72,Problems related to lifestyle
+6611728,2019,53,Hennepin,COMMERCIAL,2,19 - 44 years,F,"1,441",R19,Oth symptoms and signs involving the dgstv sys and abdomen
+6612784,2019,53,Hennepin,COMMERCIAL,2,19 - 44 years,M,125,N39,Other disorders of urinary system
+6613720,2019,53,Hennepin,COMMERCIAL,3,45 - 64 years,F,59,I97,"Intraop and postproc comp and disorders of circ sys, NEC"
+6614800,2019,53,Hennepin,COMMERCIAL,3,45 - 64 years,M,39,G54,Nerve root and plexus disorders
+6616000,2019,53,Hennepin,COMMERCIAL,4,65 - 74 years,F,64,J20,Acute bronchitis
+6617368,2019,53,Hennepin,COMMERCIAL,4,65 - 74 years,M,"1,773",Z00,"Encntr for general exam w/o complaint, susp or reprtd dx"
+6618832,2019,53,Hennepin,COMMERCIAL,5,75 years and older,M,12,S79,Other and unspecified injuries of hip and thigh
+6619840,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,389,R26,Abnormalities of gait and mobility
+6620848,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,187,P28,Oth respiratory conditions origin in the perinatal period
+6621760,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,420,I49,Other cardiac arrhythmias
+6622648,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,207,A54,Gonococcal infection
+6623584,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,38,R65,Symp and signs specifically assoc w sys inflam and infct
+6624496,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,53,K60,Fissure and fistula of anal and rectal regions
+6625360,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,273,D50,Iron deficiency anemia
+6626152,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,"1,486",R94,Abnormal results of function studies
+6627304,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,4,65 - 74 years,F,45,Z95,Presence of cardiac and vascular implants and grafts
+6628768,2019,53,Hennepin,MINNESOTA HEALTH CARE PROGRAMS,5,75 years and older,F,16,N81,Female genital prolapse
+6630496,2019,53,Hennepin,MEDICARE,2,19 - 44 years,F,70,O09,Supervision of high risk pregnancy
+6632008,2019,53,Hennepin,MEDICARE,3,45 - 64 years,F,"1,634",E78,Disorders of lipoprotein metabolism and other lipidemias
+6632848,2019,53,Hennepin,MEDICARE,3,45 - 64 years,F,95,T85,Complications of internal prosth dev/grft
+6633784,2019,53,Hennepin,MEDICARE,3,45 - 64 years,M,23,R15,Fecal incontinence
+6314967,2019,3,Anoka,MEDICARE,5,75 years and older,F,124,I47,Paroxysmal tachycardia
+6316191,2019,3,Anoka,MEDICARE,5,75 years and older,M,30,L73,Other follicular disorders
+6318975,2019,5,Becker,COMMERCIAL,3,45 - 64 years,F,52,Z79,Long term (current) drug therapy
+6321591,2019,5,Becker,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,15,S92,"Fracture of foot and toe, except ankle"
+6323727,2019,5,Becker,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,12,S69,"Other and unspecified injuries of wrist, hand and finger(s)"
+6327303,2019,5,Becker,MEDICARE,3,45 - 64 years,M,36,M19,Other and unspecified osteoarthritis
+6328959,2019,5,Becker,MEDICARE,4,65 - 74 years,M,14,R82,Other and unspecified abnormal findings in urine
+6330375,2019,5,Becker,MEDICARE,5,75 years and older,M,12,M77,Other enthesopathies
+6333399,2019,7,Beltrami,COMMERCIAL,3,45 - 64 years,M,21,Z51,Encounter for other aftercare and medical care
+6335847,2019,7,Beltrami,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,14,L20,Atopic dermatitis
+6337695,2019,7,Beltrami,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,49,R60,"Edema, not elsewhere classified"
+6341175,2019,7,Beltrami,MEDICARE,3,45 - 64 years,F,42,F31,Bipolar disorder
+6343143,2019,7,Beltrami,MEDICARE,4,65 - 74 years,F,14,S40,Superficial injury of shoulder and upper arm
+6344775,2019,7,Beltrami,MEDICARE,5,75 years and older,F,11,S91,"Open wound of ankle, foot and toes"
+6346671,2019,9,Benton,COMMERCIAL,2,19 - 44 years,F,72,E03,Other hypothyroidism
+6348711,2019,9,Benton,COMMERCIAL,3,45 - 64 years,M,38,F43,"Reaction to severe stress, and adjustment disorders"
+6351687,2019,9,Benton,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,15,O35,Maternal care for known or suspected fetal abnlt and damage
+6355359,2019,9,Benton,MEDICARE,3,45 - 64 years,F,50,Z13,Encounter for screening for other diseases and disorders
+6358095,2019,9,Benton,MEDICARE,5,75 years and older,M,20,F43,"Reaction to severe stress, and adjustment disorders"
+6365247,2019,13,Blue Earth,COMMERCIAL,2,19 - 44 years,F,13,E55,Vitamin D deficiency
+6368271,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,46,J01,Acute sinusitis
+6370167,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,12,S82,"Fracture of lower leg, including ankle"
+6372183,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,13,K40,Inguinal hernia
+6376119,2019,13,Blue Earth,MEDICARE,3,45 - 64 years,M,41,Z45,Encounter for adjustment and management of implanted device
+6634720,2019,53,Hennepin,MEDICARE,4,65 - 74 years,F,232,K56,Paralytic ileus and intestinal obstruction without hernia
+6635488,2019,53,Hennepin,MEDICARE,4,65 - 74 years,M,35,D10,Benign neoplasm of mouth and pharynx
+6636256,2019,53,Hennepin,MEDICARE,4,65 - 74 years,M,315,R25,Abnormal involuntary movements
+6637024,2019,53,Hennepin,MEDICARE,5,75 years and older,F,11,I22,Subsequent STEMI & NSTEMI mocard infrc
+6638008,2019,53,Hennepin,MEDICARE,5,75 years and older,M,19,E02,Subclinical iodine-deficiency hypothyroidism
+6638848,2019,53,Hennepin,MEDICARE,5,75 years and older,M,11,T23,Burn and corrosion of wrist and hand
+6645448,2019,55,Houston,MEDICARE,4,65 - 74 years,F,15,K22,Other diseases of esophagus
+6649096,2019,57,Hubbard,COMMERCIAL,3,45 - 64 years,F,60,I10,Essential (primary) hypertension
+6652600,2019,57,Hubbard,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,12,R19,Oth symptoms and signs involving the dgstv sys and abdomen
+6656944,2019,57,Hubbard,MEDICARE,4,65 - 74 years,F,19,I35,Nonrheumatic aortic valve disorders
+6659872,2019,59,Isanti,COMMERCIAL,1,18 years and under,F,14,Z29,Encounter for other prophylactic measures
+6662488,2019,59,Isanti,COMMERCIAL,3,45 - 64 years,M,15,K63,Other diseases of intestine
+6665512,2019,59,Isanti,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,179,Z36,Encounter for antenatal screening of mother
+6670456,2019,59,Isanti,MEDICARE,4,65 - 74 years,F,17,J30,Vasomotor and allergic rhinitis
+6672256,2019,59,Isanti,MEDICARE,5,75 years and older,F,11,R78,"Find of drugs and oth substnc, not normally found in blood"
+6674536,2019,61,Itasca,COMMERCIAL,2,19 - 44 years,F,26,Z79,Long term (current) drug therapy
+6677752,2019,61,Itasca,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,19,H50,Other strabismus
+6679960,2019,61,Itasca,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,21,I45,Other conduction disorders
+6684376,2019,61,Itasca,MEDICARE,3,45 - 64 years,F,19,K76,Other diseases of liver
+6686512,2019,61,Itasca,MEDICARE,4,65 - 74 years,M,24,G62,Other and unspecified polyneuropathies
+6687688,2019,61,Itasca,MEDICARE,5,75 years and older,F,18,N95,Menopausal and other perimenopausal disorders
+6690640,2019,63,Jackson,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,14,R06,Abnormalities of breathing
+6695728,2019,65,Kanabec,COMMERCIAL,1,18 years and under,F,16,R50,Fever of other and unknown origin
+6700144,2019,65,Kanabec,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,11,Z11,Encounter for screening for infec/parastc diseases
+6377535,2019,13,Blue Earth,MEDICARE,4,65 - 74 years,M,21,N31,"Neuromuscular dysfunction of bladder, NEC"
+6378879,2019,13,Blue Earth,MEDICARE,5,75 years and older,M,61,I42,Cardiomyopathy
+6381735,2019,15,Brown,COMMERCIAL,3,45 - 64 years,M,35,R07,Pain in throat and chest
+6386511,2019,15,Brown,MEDICARE,3,45 - 64 years,F,11,I49,Other cardiac arrhythmias
+6388719,2019,15,Brown,MEDICARE,4,65 - 74 years,M,587,Z00,"Encntr for general exam w/o complaint, susp or reprtd dx"
+6390063,2019,15,Brown,MEDICARE,5,75 years and older,M,29,R82,Other and unspecified abnormal findings in urine
+6394263,2019,17,Carlton,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,18,H91,Other and unspecified hearing loss
+6396591,2019,17,Carlton,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,60,Z01,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx"
+6400623,2019,17,Carlton,MEDICARE,3,45 - 64 years,M,34,R05,Cough
+6402495,2019,17,Carlton,MEDICARE,5,75 years and older,F,53,H04,Disorders of lacrimal system
+6403791,2019,17,Carlton,MEDICARE,5,75 years and older,M,14,Z93,Artificial opening status
+6405423,2019,19,Carver,COMMERCIAL,2,19 - 44 years,F,95,J30,Vasomotor and allergic rhinitis
+6407055,2019,19,Carver,COMMERCIAL,3,45 - 64 years,F,49,J40,"Bronchitis, not specified as acute or chronic"
+6409695,2019,19,Carver,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,30,J30,Vasomotor and allergic rhinitis
+6411423,2019,19,Carver,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,26,R63,Symptoms and signs concerning food and fluid intake
+6413367,2019,19,Carver,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,19,M16,Osteoarthritis of hip
+6416943,2019,19,Carver,MEDICARE,4,65 - 74 years,F,23,D47,"Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss"
+6418287,2019,19,Carver,MEDICARE,4,65 - 74 years,M,193,R06,Abnormalities of breathing
+6419799,2019,19,Carver,MEDICARE,5,75 years and older,M,151,L82,Seborrheic keratosis
+6423591,2019,21,Cass,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,23,J01,Acute sinusitis
+6425343,2019,21,Cass,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,27,Z33,Pregnant state
+6429135,2019,21,Cass,MEDICARE,3,45 - 64 years,F,29,J01,Acute sinusitis
+6431415,2019,21,Cass,MEDICARE,4,65 - 74 years,M,15,N52,Male erectile dysfunction
+6432735,2019,21,Cass,MEDICARE,5,75 years and older,M,12,K29,Gastritis and duodenitis
+6704056,2019,65,Kanabec,MEDICARE,5,75 years and older,F,41,M19,Other and unspecified osteoarthritis
+6706672,2019,67,Kandiyohi,COMMERCIAL,2,19 - 44 years,M,38,J06,Acute upper resp infections of multiple and unsp sites
+6709696,2019,67,Kandiyohi,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,12,Z47,Orthopedic aftercare
+6711688,2019,67,Kandiyohi,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,76,R05,Cough
+6715600,2019,67,Kandiyohi,MEDICARE,3,45 - 64 years,F,20,R51,Headache
+6717448,2019,67,Kandiyohi,MEDICARE,4,65 - 74 years,M,24,I35,Nonrheumatic aortic valve disorders
+6719080,2019,67,Kandiyohi,MEDICARE,5,75 years and older,M,15,K76,Other diseases of liver
+6725608,2019,71,Koochiching,COMMERCIAL,3,45 - 64 years,F,34,M79,"Oth and unsp soft tissue disorders, not elsewhere classified"
+6731248,2019,71,Koochiching,MEDICARE,4,65 - 74 years,F,15,M20,Acquired deformities of fingers and toes
+6733192,2019,71,Koochiching,MEDICARE,5,75 years and older,M,40,R10,Abdominal and pelvic pain
+6741880,2019,75,Lake,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,17,M79,"Oth and unsp soft tissue disorders, not elsewhere classified"
+6746848,2019,75,Lake,MEDICARE,5,75 years and older,F,13,J02,Acute pharyngitis
+6754168,2019,79,Le Sueur,COMMERCIAL,3,45 - 64 years,F,16,F32,"Major depressive disorder, single episode"
+6757912,2019,79,Le Sueur,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,21,R30,Pain associated with micturition
+6762280,2019,79,Le Sueur,MEDICARE,5,75 years and older,F,12,H81,Disorders of vestibular function
+6767224,2019,81,Lincoln,MEDICARE,4,65 - 74 years,F,14,M17,Osteoarthritis of knee
+6772768,2019,83,Lyon,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,17,O47,False labor
+6777256,2019,83,Lyon,MEDICARE,4,65 - 74 years,F,17,I35,Nonrheumatic aortic valve disorders
+6779320,2019,83,Lyon,MEDICARE,5,75 years and older,M,31,J96,"Respiratory failure, not elsewhere classified"
+6782224,2019,85,McLeod,COMMERCIAL,3,45 - 64 years,F,64,N39,Other disorders of urinary system
+6784888,2019,85,McLeod,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,22,J30,Vasomotor and allergic rhinitis
+6788128,2019,85,McLeod,MEDICARE,2,19 - 44 years,F,13,Z12,Encounter for screening for malignant neoplasms
+6790384,2019,85,McLeod,MEDICARE,4,65 - 74 years,F,70,Z78,Other specified health status
+6791656,2019,85,McLeod,MEDICARE,5,75 years and older,F,27,N32,Other disorders of bladder
+6438615,2019,23,Chippewa,MEDICARE,3,45 - 64 years,F,49,Z01,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx"
+6441111,2019,23,Chippewa,MEDICARE,5,75 years and older,M,61,R06,Abnormalities of breathing
+6443103,2019,25,Chisago,COMMERCIAL,2,19 - 44 years,F,20,S69,"Other and unspecified injuries of wrist, hand and finger(s)"
+6444615,2019,25,Chisago,COMMERCIAL,3,45 - 64 years,F,20,T84,Complications of internal orthopedic prosth dev/grft
+6447735,2019,25,Chisago,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,48,J18,"Pneumonia, unspecified organism"
+6449295,2019,25,Chisago,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,39,L03,Cellulitis and acute lymphangitis
+6453255,2019,25,Chisago,MEDICARE,3,45 - 64 years,F,32,R42,Dizziness and giddiness
+6455367,2019,25,Chisago,MEDICARE,4,65 - 74 years,M,24,K76,Other diseases of liver
+6456831,2019,25,Chisago,MEDICARE,5,75 years and older,M,16,I27,Other pulmonary heart diseases
+6459351,2019,27,Clay,COMMERCIAL,2,19 - 44 years,M,14,S01,Open wound of head
+6462927,2019,27,Clay,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,31,M21,Other acquired deformities of limbs
+6464487,2019,27,Clay,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,21,J32,Chronic sinusitis
+6467559,2019,27,Clay,MEDICARE,2,19 - 44 years,F,12,F90,Attention-deficit hyperactivity disorders
+6470559,2019,27,Clay,MEDICARE,4,65 - 74 years,F,33,R92,Abnormal and inconclusive findings on dx imaging of breast
+6472431,2019,27,Clay,MEDICARE,5,75 years and older,M,17,E83,Disorders of mineral metabolism
+6476679,2019,29,Clearwater,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,62,M25,"Other joint disorder, not elsewhere classified"
+6480855,2019,29,Clearwater,MEDICARE,5,75 years and older,M,18,I11,Hypertensive heart disease
+6488223,2019,33,Cottonwood,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,17,Z13,Encounter for screening for other diseases and disorders
+6283155,2019,1,Aitkin,COMMERCIAL,2,19 - 44 years,F,39,Z34,Encounter for supervision of normal pregnancy
+6287643,2019,1,Aitkin,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,29,R05,Cough
+6291987,2019,1,Aitkin,MEDICARE,5,75 years and older,M,12,C79,Secondary malignant neoplasm of other and unspecified sites
+6293619,2019,3,Anoka,COMMERCIAL,1,18 years and under,M,13,F63,Impulse disorders
+6294867,2019,3,Anoka,COMMERCIAL,2,19 - 44 years,F,93,L91,Hypertrophic disorders of skin
+6296211,2019,3,Anoka,COMMERCIAL,2,19 - 44 years,M,112,S99,Other and unspecified injuries of ankle and foot
+6297243,2019,3,Anoka,COMMERCIAL,3,45 - 64 years,F,103,S61,"Open wound of wrist, hand and fingers"
+6298203,2019,3,Anoka,COMMERCIAL,3,45 - 64 years,M,34,S00,Superficial injury of head
+6301083,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,354,J01,Acute sinusitis
+6302451,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,54,Q90,Down syndrome
+6303435,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,81,N80,Endometriosis
+6304635,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,59,R26,Abnormalities of gait and mobility
+6305643,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,182,N89,Other noninflammatory disorders of vagina
+6307059,2019,3,Anoka,MINNESOTA HEALTH CARE PROGRAMS,4,65 - 74 years,F,14,F20,Schizophrenia
+6310323,2019,3,Anoka,MEDICARE,2,19 - 44 years,M,14,R39,Oth and unsp symptoms and signs involving the GU sys
+6311547,2019,3,Anoka,MEDICARE,3,45 - 64 years,M,12,C20,Malignant neoplasm of rectum
+6312651,2019,3,Anoka,MEDICARE,4,65 - 74 years,F,96,E10,Type 1 diabetes mellitus
+6313755,2019,3,Anoka,MEDICARE,4,65 - 74 years,M,77,F10,Alcohol related disorders
+6315003,2019,3,Anoka,MEDICARE,5,75 years and older,F,371,J01,Acute sinusitis
+6316107,2019,3,Anoka,MEDICARE,5,75 years and older,M,47,K13,Other diseases of lip and oral mucosa
+6318507,2019,5,Becker,COMMERCIAL,3,45 - 64 years,F,35,H25,Age-related cataract
+6321723,2019,5,Becker,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,27,D22,Melanocytic nevi
+6323955,2019,5,Becker,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,26,F31,Bipolar disorder
+6327627,2019,5,Becker,MEDICARE,4,65 - 74 years,F,31,D23,Other benign neoplasms of skin
+6329379,2019,5,Becker,MEDICARE,5,75 years and older,F,16,I26,Pulmonary embolism
+6330339,2019,5,Becker,MEDICARE,5,75 years and older,M,20,M12,Other and unspecified arthropathy
+6332955,2019,7,Beltrami,COMMERCIAL,3,45 - 64 years,M,20,E03,Other hypothyroidism
+6335667,2019,7,Beltrami,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,12,H47,Other disorders of optic [2nd] nerve and visual pathways
+6337827,2019,7,Beltrami,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,18,Z30,Encounter for contraceptive management
+6341523,2019,7,Beltrami,MEDICARE,3,45 - 64 years,F,15,N17,Acute kidney failure
+6343491,2019,7,Beltrami,MEDICARE,4,65 - 74 years,M,15,H10,Conjunctivitis
+6344619,2019,7,Beltrami,MEDICARE,5,75 years and older,F,23,N81,Female genital prolapse
+6346083,2019,9,Benton,COMMERCIAL,1,18 years and under,F,51,Z01,"Encntr for oth sp exam w/o complaint, suspected or reprtd dx"
+6348171,2019,9,Benton,COMMERCIAL,3,45 - 64 years,F,17,J34,Other and unspecified disorders of nose and nasal sinuses
+6351915,2019,9,Benton,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,46,Z79,Long term (current) drug therapy
+6356859,2019,9,Benton,MEDICARE,4,65 - 74 years,M,14,I26,Pulmonary embolism
+6360411,2019,11,Big Stone,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,13,J06,Acute upper resp infections of multiple and unsp sites
+6366075,2019,13,Blue Earth,COMMERCIAL,2,19 - 44 years,M,107,M25,"Other joint disorder, not elsewhere classified"
+6369051,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,18,M21,Other acquired deformities of limbs
+6370923,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,12,S42,Fracture of shoulder and upper arm
+6372363,2019,13,Blue Earth,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,96,R07,Pain in throat and chest
+6375987,2019,13,Blue Earth,MEDICARE,3,45 - 64 years,M,47,R41,Oth symptoms and signs w cognitive functions and awareness
+6377499,2019,13,Blue Earth,MEDICARE,4,65 - 74 years,M,39,M62,Other disorders of muscle
+6379011,2019,13,Blue Earth,MEDICARE,5,75 years and older,M,19,L02,"Cutaneous abscess, furuncle and carbuncle"
+6382419,2019,15,Brown,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,20,S00,Superficial injury of head
+6387651,2019,15,Brown,MEDICARE,4,65 - 74 years,F,11,I71,Aortic aneurysm and dissection
+6389739,2019,15,Brown,MEDICARE,5,75 years and older,M,43,I21,Acute myocardial infarction
+6392619,2019,17,Carlton,COMMERCIAL,3,45 - 64 years,F,12,S61,"Open wound of wrist, hand and fingers"
+6395859,2019,17,Carlton,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,12,S20,Superficial injury of thorax
+6398787,2019,17,Carlton,MINNESOTA HEALTH CARE PROGRAMS,5,75 years and older,M,12,N39,Other disorders of urinary system
+6401379,2019,17,Carlton,MEDICARE,4,65 - 74 years,F,26,R31,Hematuria
+6403419,2019,17,Carlton,MEDICARE,5,75 years and older,M,12,K44,Diaphragmatic hernia
+6405339,2019,19,Carver,COMMERCIAL,2,19 - 44 years,F,11,H35,Other retinal disorders
+6406635,2019,19,Carver,COMMERCIAL,2,19 - 44 years,M,48,Z12,Encounter for screening for malignant neoplasms
+6408339,2019,19,Carver,COMMERCIAL,3,45 - 64 years,M,20,Z82,Fam hx of certain disabil & chr dis (leading to disablement)
+6412083,2019,19,Carver,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,35,R53,Malaise and fatigue
+6415827,2019,19,Carver,MEDICARE,3,45 - 64 years,F,17,L30,Other and unspecified dermatitis
+6417795,2019,19,Carver,MEDICARE,4,65 - 74 years,M,11,D68,Other coagulation defects
+6419115,2019,19,Carver,MEDICARE,5,75 years and older,F,332,R06,Abnormalities of breathing
+6422043,2019,21,Cass,COMMERCIAL,3,45 - 64 years,F,13,Z71,"Persons encntr health serv for oth cnsl and med advice, NEC"
+6425355,2019,21,Cass,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,F,38,Z48,Encounter for other postprocedural aftercare
+6429363,2019,21,Cass,MEDICARE,3,45 - 64 years,F,16,R41,Oth symptoms and signs w cognitive functions and awareness
+6431739,2019,21,Cass,MEDICARE,5,75 years and older,F,18,E04,Other nontoxic goiter
+6435195,2019,23,Chippewa,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,F,108,J06,Acute upper resp infections of multiple and unsp sites
+6440499,2019,23,Chippewa,MEDICARE,5,75 years and older,F,15,M75,Shoulder lesions
+6442491,2019,25,Chisago,COMMERCIAL,2,19 - 44 years,F,13,D49,Neoplasms of unspecified behavior
+6444339,2019,25,Chisago,COMMERCIAL,3,45 - 64 years,F,26,M05,Rheumatoid arthritis with rheumatoid factor
+6446739,2019,25,Chisago,COMMERCIAL,5,75 years and older,M,11,L57,Skin changes due to chronic expsr to nonionizing radiation
+6450219,2019,25,Chisago,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,17,R50,Fever of other and unknown origin
+6453915,2019,25,Chisago,MEDICARE,3,45 - 64 years,M,61,R10,Abdominal and pelvic pain
+6455547,2019,25,Chisago,MEDICARE,4,65 - 74 years,M,41,R30,Pain associated with micturition
+6457131,2019,25,Chisago,MEDICARE,5,75 years and older,M,78,R19,Oth symptoms and signs involving the dgstv sys and abdomen
+6459915,2019,27,Clay,COMMERCIAL,3,45 - 64 years,F,22,M53,"Other and unspecified dorsopathies, not elsewhere classified"
+6463107,2019,27,Clay,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,52,R68,Other general symptoms and signs
+6464763,2019,27,Clay,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,45,R41,Oth symptoms and signs w cognitive functions and awareness
+6468627,2019,27,Clay,MEDICARE,3,45 - 64 years,F,44,F43,"Reaction to severe stress, and adjustment disorders"
+6470211,2019,27,Clay,MEDICARE,4,65 - 74 years,F,21,I70,Atherosclerosis
+6471267,2019,27,Clay,MEDICARE,4,65 - 74 years,M,17,R20,Disturbances of skin sensation
+6472875,2019,27,Clay,MEDICARE,5,75 years and older,M,55,R33,Retention of urine
+6479979,2019,29,Clearwater,MEDICARE,4,65 - 74 years,M,37,R00,Abnormalities of heart beat
+6487707,2019,33,Cottonwood,COMMERCIAL,3,45 - 64 years,M,11,S33,Disloc & sprain of joints & ligaments of lumbar spin & pelv
+6492699,2019,33,Cottonwood,MEDICARE,4,65 - 74 years,M,11,I44,Atrioventricular and left bundle-branch block
+6495723,2019,35,Crow Wing,COMMERCIAL,2,19 - 44 years,F,12,S61,"Open wound of wrist, hand and fingers"
+6497451,2019,35,Crow Wing,COMMERCIAL,3,45 - 64 years,M,50,I48,Atrial fibrillation and flutter
+6500211,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,68,K59,Other functional intestinal disorders
+6501651,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,66,F34,Persistent mood [affective] disorders
+6503331,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,14,I11,Hypertensive heart disease
+6506475,2019,35,Crow Wing,MEDICARE,3,45 - 64 years,F,135,R07,Pain in throat and chest
+6508251,2019,35,Crow Wing,MEDICARE,4,65 - 74 years,F,51,S99,Other and unspecified injuries of ankle and foot
+6509451,2019,35,Crow Wing,MEDICARE,5,75 years and older,F,239,H26,Other cataract
+6510579,2019,35,Crow Wing,MEDICARE,5,75 years and older,M,11,M12,Other and unspecified arthropathy
+6511875,2019,37,Dakota,COMMERCIAL,1,18 years and under,M,66,B09,Unsp viral infection with skin and mucous membrane lesions
+6513411,2019,37,Dakota,COMMERCIAL,2,19 - 44 years,F,136,M76,"Enthesopathies, lower limb, excluding foot"
+6514539,2019,37,Dakota,COMMERCIAL,2,19 - 44 years,M,19,N23,Unspecified renal colic
+6515499,2019,37,Dakota,COMMERCIAL,3,45 - 64 years,F,"1,041",L82,Seborrheic keratosis
+6516459,2019,37,Dakota,COMMERCIAL,3,45 - 64 years,M,71,J22,Unspecified acute lower respiratory infection
+6492711,2019,33,Cottonwood,MEDICARE,4,65 - 74 years,M,15,I70,Atherosclerosis
+6495303,2019,35,Crow Wing,COMMERCIAL,2,19 - 44 years,F,14,H69,Other and unspecified disorders of Eustachian tube
+6497487,2019,35,Crow Wing,COMMERCIAL,3,45 - 64 years,M,27,J20,Acute bronchitis
+6500487,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,1,18 years and under,M,20,S30,"Superfic inj abdomen, low back, pelvis and external genitals"
+6502095,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,13,S00,Superficial injury of head
+6503727,2019,35,Crow Wing,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,M,23,S69,"Other and unspecified injuries of wrist, hand and finger(s)"
+6796192,2019,87,Mahnomen,MEDICARE,3,45 - 64 years,F,13,E11,Type 2 diabetes mellitus
+6801688,2019,89,Marshall,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,36,M25,"Other joint disorder, not elsewhere classified"
+6805312,2019,89,Marshall,MEDICARE,5,75 years and older,M,13,R29,Oth symptoms and signs involving the nervous and ms systems
+6809200,2019,91,Martin,MINNESOTA HEALTH CARE PROGRAMS,2,19 - 44 years,M,16,F84,Pervasive developmental disorders
+6812608,2019,91,Martin,MEDICARE,3,45 - 64 years,M,58,I10,Essential (primary) hypertension
+6815440,2019,91,Martin,MEDICARE,5,75 years and older,M,28,N28,"Oth disorders of kidney and ureter, not elsewhere classified"
+6818392,2019,93,Meeker,COMMERCIAL,3,45 - 64 years,M,20,N40,Benign prostatic hyperplasia
+6821320,2019,93,Meeker,MINNESOTA HEALTH CARE PROGRAMS,3,45 - 64 years,F,34,N39,Other disorders of urinary system
+6825112,2019,93,Meeker,MEDICARE,4,65 - 74 years,M,13,M50,Cervical disc disorders
