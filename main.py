@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import panda as pd
+import pandas as pd
 
 df = pd.read_csv('./data/diagnoses.csv')
 
